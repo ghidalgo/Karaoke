@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.gradle
+out
+build
+Karaoke.iml
+
+# Library configuration lives here, keep it.
+!.idea/libraries
+.idea/workspace.xml
